@@ -22,8 +22,7 @@
 git clone git@github.com:Cooke64/fast_api_blog.git
 ```
 
-```
-cd api
+
 ```
 
 Cоздать и активировать виртуальное окружение:
